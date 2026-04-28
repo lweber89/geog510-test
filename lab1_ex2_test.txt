@@ -1,1 +1,5 @@
 This is some test text for Geog 510 Lab 1 Exercise 2.
+
+Making changes to demonstrate use of git branches.
+
+This file was edited in the test-branch.
