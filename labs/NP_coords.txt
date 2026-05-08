@@ -1,0 +1,10 @@
+Acadia NP: Latitude: 44.3386, Longitude: -68.2733
+Grand Canyon NP: Latitude: 36.107, Longitude: -112.113
+Yellowstone NP: Latitude: 44.428, Longitude: -110.5885
+Yosemite NP: Latitude: 37.8651, Longitude: -119.5383
+Glacier NP: Latitude: 48.7596, Longitude: -113.787
+Everglades NP: Latitude: 25.2866, Longitude: -80.5749
+Badlands NP: Latitude: 43.855, Longitude: -102.34
+Great Smoky Mountains NP: Latitude: 35.6131, Longitude: -83.4811
+Zion NP: Latitude: 37.3, Longitude: -113.0
+Denali NP: Latitude: 63.1148, Longitude: -151.1926
