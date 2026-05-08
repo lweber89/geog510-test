@@ -1,0 +1,4 @@
+The distance between Point 0 and point 1: 8815.47km
+The distance between Point 1 and point 2: 8755.60km
+The distance between Point 2 and point 3: 16993.93km
+The distance between Point 3 and point 4: 16960.50km
